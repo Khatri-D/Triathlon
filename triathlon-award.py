@@ -20,3 +20,4 @@ elif total_time <= 110:
     print(f"Your total time is {total_time} minutes, you receive 'Provincial Scroll.'")  # Award for total time <= 110 minutes
 else:
     print(f"Your total time is {total_time} minutes, you receive 'No award.'")  # No award for total time > 110 minutes
+
